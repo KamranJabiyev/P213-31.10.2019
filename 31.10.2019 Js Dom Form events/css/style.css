@@ -1,0 +1,80 @@
+/* .tab-menu {}
+
+.tab-menu .menu {
+    display: flex;
+    background: #f1f1f1;
+    border: 1px solid #ccc;
+}
+
+.tab-menu .menu div {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.tab-menu .menu div:hover {
+    background: #ddd;
+}
+
+.tab-menu .content {
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.tab-menu .content div {}
+
+.active {
+    background: #ccc;
+} */
+
+
+/* Slider Start */
+
+
+/* #slider {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+#slider .images {
+    height: 400px;
+    width: 100%;
+}
+
+#slider .images .item {
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+#slider .images .item img {
+    height: 400px;
+    width: 100%;
+}
+
+#slider .nav {
+    position: absolute;
+    top: 45%;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#slider .left {
+    left: 20px;
+}
+
+#slider .right {
+    right: 20px;
+}
+
+.active {
+    opacity: 1 !important;
+} */
+
+
+/* Slider End */
